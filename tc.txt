@@ -1,0 +1,11 @@
+1)Check for valid user (ID:30262) in azure id :26936
+    end point: /api/Access/GetUserAccessInfo
+    Req URL: https://map-dev-api.azurewebsites.net/api/Access/GetUserAccessInfo?UserEmail=nagaveerisetti%40bftg.com
+    input :UserEmail (fetch from db)
+    output code: 200 for success and 404 not found
+
+2) Get Field Details (ID:30266) in azure id : 26941
+    end point : /api/FieldData/GetFieldData
+    Request URL: https://map-dev-api.azurewebsites.net/api/FieldData/GetFieldData?FieldName=agency
+    input :FieldName (fetch from db)
+    output code : 200 for success and 404 not found
