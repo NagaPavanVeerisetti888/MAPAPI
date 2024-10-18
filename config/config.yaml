@@ -1,0 +1,3 @@
+accessAPI:
+  base_url: "https://map-dev-api.azurewebsites.net/api/Access/"
+  users_endpoint: "GetUserAccessInfo"
