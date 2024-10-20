@@ -3,7 +3,7 @@
 # # Define your connection parameters
 # server = 'lvdms-dev.database.windows.net'
 # database = 'lvdms'
-# username = 'nagaveerisetti@bftg.com'
+# username = ''
 # driver = '{ODBC Driver 17 for SQL Server}'
 # # Connect to the database using interactive authentication
 # try:
